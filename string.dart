@@ -23,4 +23,26 @@ void main() {
   print(daftarHewan.split(',')[0]);
 
   print(name.substring(0, 4));
+
+  print(name.length);
+
+  print(name.trim());
+
+  print(name.trimRight());
+
+  print(name.trimLeft());
+
+  print(name.codeUnitAt(1));
+
+  print(name.indexOf('i'));
+
+  print(name.startsWith('Raf'));
+
+  print(name.endsWith('na'));
+
+  print(name.isEmpty);
+
+  String tes = '';
+
+  print(tes.isNotEmpty);
 }
