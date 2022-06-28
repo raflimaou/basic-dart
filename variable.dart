@@ -2,6 +2,8 @@
 // var year = 1977;
 // var antennaDiameter = 3.7;
 
+// ignore_for_file: unused_local_variable
+
 void main() {
   //String
   var name = 'Rafli Maulana';
